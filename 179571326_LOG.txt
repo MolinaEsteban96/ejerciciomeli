@@ -1,0 +1,250 @@
+
+id: MLA843116615
+Titulo: Monitor Dell P2419h Led 24  Negro 100v/240v
+Categoria: MLA14407
+Nombre categoria: Monitores
+
+id: MLA870594510
+Titulo: Access Point, Router Linksys Max-stream Ea7300  Negro 100v/240v
+Categoria: MLA430901
+Nombre categoria: Routers
+
+id: MLA907606600
+Titulo: Impresora Lexmark B2338dw Con Wifi 220v Gris Y Blanca
+Categoria: MLA1676
+Nombre categoria: Impresoras
+
+id: MLA912002253
+Titulo:  Apc Back-ups Bx550ci-ar 550va Con Entrada Y Salida De 230v  Negro
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA884735971
+Titulo: Impresora Multifunción Lexmark Mb2442adwe Con Wifi 220v Gris Y Blanca
+Categoria: MLA1676
+Nombre categoria: Impresoras
+
+id: MLA898898561
+Titulo: Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh  Blanco 100v/240v
+Categoria: MLA430901
+Nombre categoria: Routers
+
+id: MLA685442693
+Titulo: Switch Cisco 24 Puertos Gigabit Rack 10/100/1000
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA604049998
+Titulo: Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA876794922
+Titulo: Impresora Multifunción Lexmark Mb2546adwe Con Wifi 220v Gris Y Blanca
+Categoria: MLA1676
+Nombre categoria: Impresoras
+
+id: MLA884736096
+Titulo: Router Cisco Rv Series Rv340  Negro 100v/240v
+Categoria: MLA430901
+Nombre categoria: Routers
+
+id: MLA696010903
+Titulo: Ups Apc Src2ki-ar 2000va Online Tower Src2ki
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA910712440
+Titulo: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA906171057
+Titulo: Router Linksys Ea-series Ea6100  Negro 100v/240v
+Categoria: MLA430901
+Nombre categoria: Routers
+
+id: MLA839086917
+Titulo: Router Linksys Ea8300 Tri Band Wifi Ac2200 Mu-mino Oferta
+Categoria: MLA430901
+Nombre categoria: Routers
+
+id: MLA665712636
+Titulo: Notebook Dell I7 16gb 1tb + Ssd Windows 10
+Categoria: MLA1652
+Nombre categoria: Notebooks
+
+id: MLA673321805
+Titulo: Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA614270244
+Titulo: Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA673439018
+Titulo: Notebook Laptop Dell Inspiron I3 8gb 1tb 15,6 Fhd Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+Categoria: MLA1652
+Nombre categoria: Notebooks
+
+id: MLA678026676
+Titulo: Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA862050665
+Titulo: Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA740540307
+Titulo: Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA838039921
+Titulo: Ups Apc Bv800i-ar 800v 4t Estabilizador Pc Gamer Simil Bx800
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA665986505
+Titulo: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA604317175
+Titulo: Ups Apc 800va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial De 2 Años Para Gamer Bx800 Para Tv, Play
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA910713865
+Titulo: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA835614791
+Titulo: Sf250-48-k9-ar Switch 48p Cisco Sf250-48 10/100 Rack
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA800415301
+Titulo: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA835811366
+Titulo: Switch Cisco Sg220-26 Gigabit Administrable + 2 Sfp
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA675284743
+Titulo: Router Cisco Rv160-k9-ar Cisco Rv160 Vpn Smb
+Categoria: MLA430901
+Nombre categoria: Routers
+
+id: MLA814217735
+Titulo: Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA685442543
+Titulo: Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24)
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA835812799
+Titulo: Switch Cisco Sg220-26p Smart Plus 26 Puertos Giga Poe Admin
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA714578081
+Titulo: Switch 24p Cisco Sg250-26 Giga 10/100/1000 Sg250-26-k9
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA614270271
+Titulo: Estabilizador Ups Apc 900va Con Garantia Oficial Para Tv, Play, Equipos De Audio Y Pc Con Ahorro De Energia
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA609714711
+Titulo: Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA838441150
+Titulo: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA609550688
+Titulo: Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA609115444
+Titulo: Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA910726513
+Titulo: Monitor Dell Ips 27 E2720h 1080 60hz Dp Vga
+Categoria: MLA14407
+Nombre categoria: Monitores
+
+id: MLA663213659
+Titulo: Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B
+Categoria: MLA1652
+Nombre categoria: Notebooks
+
+id: MLA791968195
+Titulo: Escaner Kodak S2040 Alta Velocidad 600dpi Duplex 5000 X Dia
+Categoria: MLA72721
+Nombre categoria: Scanners
+
+id: MLA701423768
+Titulo: Switch Cisco 8 Puertos Port 10/100/1000 Giga Sg100 Oferta Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA696009826
+Titulo: Ups Apc 1000va Online Tower Gtia 2 Años
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA906671838
+Titulo: Notebook Dell Inspiron Amd Ryzen 5 16gb 256ssd + 1tb Win10
+Categoria: MLA1652
+Nombre categoria: Notebooks
+
+id: MLA896718634
+Titulo: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia
+Categoria: MLA1649
+Nombre categoria: PC
+
+id: MLA692519735
+Titulo: Switch Cisco Sf110d-05 5 Puertos 10/100 Sf110 (ex Sf100d-05)
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA863267784
+Titulo: Monitor Dell Professional P2018h Led 20  Negro 100v/240v
+Categoria: MLA14407
+Nombre categoria: Monitores
+
+id: MLA714624323
+Titulo: Switch 24p Cisco Sg350-28 10/100/1000 Sg350-28-k9
+Categoria: MLA1708
+Nombre categoria: Switches
+
+id: MLA603776528
+Titulo: Ups Apc 1100va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial Para Pc Gamer Con Ahorro De Energia
+Categoria: MLA1720
+Nombre categoria: UPS
+
+id: MLA714545399
+Titulo: Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9
+Categoria: MLA1708
+Nombre categoria: Switches
