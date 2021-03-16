@@ -11,3 +11,5 @@ usuario en la plataforma Mercado Libre.
 
     - Una vez ingresado pulsamos ENTER y automáticamente el programa nos creara un archivo LOG con la información
     acerca de los productos que comercializa el usuario.
+    
+    NOTA: Si introducimos un valor erróneo el programa terminará sin crearse ningun archivo LOG.
