@@ -1,0 +1,29 @@
+{
+  "name": "ejercicio-meli",
+  "version": "1.0.0",
+  "description": "ejercicio para MELI de REST api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MolinaEsteban96/ejerciciomeli.git"
+  },
+  "keywords": [
+    "ejercicio",
+    "meli",
+    "rest",
+    "api"
+  ],
+  "author": "Esteban MOlina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MolinaEsteban96/ejerciciomeli/issues"
+  },
+  "homepage": "https://github.com/MolinaEsteban96/ejerciciomeli#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.1",
+    "prompt": "^1.1.0"
+  }
+}
