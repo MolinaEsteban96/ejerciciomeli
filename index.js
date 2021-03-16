@@ -15,18 +15,22 @@ Prompt.get("sellerID", async function (err, result) {
     var items = [];
 
     /*REQUERIMOS TODOS LOS PRODUCTOS MEDIANTE FETCH*/
+    try {
 
-    await Fetch('https://api.mercadolibre.com/sites/MLA/search?seller_id='+ result.sellerID, {
+        await Fetch('https://api.mercadolibre.com/sites/MLA/search?seller_id='+ result.sellerID, {
 
         Headers : {'Authorization' : 'Bearer TG-604d654d71a616000d3be0e6-269620469'}
 
-    })
-    .then(res => res.json())
-    .then(data => items = [data])
+        })
+        .then(res => res.json())
+        .then(data => items = [data])
 
-    var itemlist = []
+        var itemlist = []
 
-    itemlist = items[0].results;
+        itemlist = items[0].results;
+        
+    }catch (err){console.log(err)}
+    
 
     /*ITERAMOS CADA PRODUCTO EN LA LISTA, REQUERIMOS MEDIANTE FETCH EL NOMBRE DE LA CATEGORIA Y ESCRIBIMOS EN UN ARCHIVO
     LOG TODOS LOS DATOS RELEVANTES DEL PRODUCTO*/

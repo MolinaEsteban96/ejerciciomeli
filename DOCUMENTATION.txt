@@ -1,0 +1,13 @@
+- El siguiente programa tiene como finalidad poder recuperar los artículos en venta de un determinado
+usuario en la plataforma Mercado Libre.
+
+- El programa esta realizado 100% en nodeJs utilizando solamente 3 módulos externos: node-fetch, fs, prompt.
+
+- USO:
+
+    - Ejecutar el programa mediante una terminal (cmd, powershell,etc)
+
+    - El programa pedirá el ingreso de un sellerID que es la id del usuario del que queremos recuperar la información.
+
+    - Una vez ingresado pulsamos ENTER y automáticamente el programa nos creara un archivo LOG con la información
+    acerca de los productos que comercializa el usuario.
